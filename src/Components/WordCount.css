@@ -1,0 +1,41 @@
+.box{
+    /* border: 1px solid black; */
+    margin-top: 14%;
+    width: max-content;
+    height: 450px;
+    
+}
+
+.text{
+    /* border: 1px rgb(27, 26, 26) solid; */
+    color: rgb(32, 32, 32);
+    margin: 2%;
+    padding: 2%;
+    width: auto;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.texare{
+    border: 1px black solid;
+    margin: 2%;
+    padding: 2%;
+    width: auto;
+    border-radius: 3%;
+}
+
+.wordcount{
+    /* border: 1px solid black; */
+    margin: 2%;
+    /* padding: 2%; */
+    margin-left: 10%;
+    /* margin-bottom: 10%; */
+    width:max-content;
+    /* font-weight: bold; */
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(32, 32, 32);
+    text-align: left;
+
+}

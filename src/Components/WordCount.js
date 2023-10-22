@@ -10,7 +10,8 @@ function WordCount() {
     setText(event.target.value);
   }
   function countWords(str){
-    return str.trim().split(/\s+/).length;
+    const words = str.match(/\b\w+\b/g);
+    return words ? words.length : 0;
   }
 
 

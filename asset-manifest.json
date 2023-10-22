@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mern_react_task1_word_counter/static/css/main.f63694ad.css",
-    "main.js": "/mern_react_task1_word_counter/static/js/main.5436eee3.js",
+    "main.js": "/mern_react_task1_word_counter/static/js/main.58559797.js",
     "static/js/787.16d32176.chunk.js": "/mern_react_task1_word_counter/static/js/787.16d32176.chunk.js",
     "index.html": "/mern_react_task1_word_counter/index.html",
     "main.f63694ad.css.map": "/mern_react_task1_word_counter/static/css/main.f63694ad.css.map",
-    "main.5436eee3.js.map": "/mern_react_task1_word_counter/static/js/main.5436eee3.js.map",
+    "main.58559797.js.map": "/mern_react_task1_word_counter/static/js/main.58559797.js.map",
     "787.16d32176.chunk.js.map": "/mern_react_task1_word_counter/static/js/787.16d32176.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f63694ad.css",
-    "static/js/main.5436eee3.js"
+    "static/js/main.58559797.js"
   ]
 }
